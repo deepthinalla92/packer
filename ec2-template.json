@@ -1,0 +1,12 @@
+{
+    "builders": [{
+        "type": "amazon-ebs",
+        "ami_name": "linux-image-hosting-deepthi-nall",
+        "instance_type": "t2.micro",
+        "region": "us-west-2",
+        "source_ami": "",
+        "access_key": 
+    }
+
+    ]
+}
